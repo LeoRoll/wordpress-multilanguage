@@ -1,0 +1,92 @@
+# Translation of Bin-Go Web in Chinese (China)
+# This file is distributed under the same license as the Bin-Go web package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-13 13:50+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Project-Id-Version: Bin-Go-Web 1.0\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+
+# /plugins/bin-go-web/includes/post_types.php
+msgid "All products"
+msgstr "所有产品"
+
+msgid "product"
+msgstr "公司产品"
+
+msgid "Products"
+msgstr "公司产品"
+
+msgid "Product"
+msgstr "公司产品"
+
+msgid "Product Categories"
+msgstr "产品分类"
+
+msgid "Product Category"
+msgstr "产品分类"
+
+msgid "Add new product"
+msgstr "添加产品"
+
+msgid "Edit product"
+msgstr "编辑产品"
+
+msgid "New product"
+msgstr "新建产品"
+
+msgid "All schemes"
+msgstr "所有方案"
+
+msgid "scheme"
+msgstr "解决方案"
+
+msgid "Schemes"
+msgstr "解决方案"
+
+msgid "Scheme"
+msgstr "解决方案"
+
+msgid "Scheme Categories"
+msgstr "方案分类"
+
+msgid "Scheme Category"
+msgstr "方案分类"
+
+msgid "Add new scheme"
+msgstr "添加解决方案"
+
+msgid "Edit scheme"
+msgstr "编辑解决方案"
+
+msgid "New scheme"
+msgstr "新建解决方案"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Image Preview"
+msgstr "图片预览"
+
+msgid "More"
+msgstr "更多"
+
+# override wordpress default translate
+msgid ", "
+msgstr "、 "

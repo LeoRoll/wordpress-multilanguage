@@ -1,0 +1,160 @@
+# Translation of Assan in Chinese (China)
+# This file is distributed under the same license as the Assan package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-23 16:55+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+"Project-Id-Version: Assan1.0\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+
+#: /themes/assan/functions.php:37
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: /themes/assan/functions.php:38
+msgid "OnePage Menu"
+msgstr "单页菜单"
+
+# /themes/assan/lib/function.php
+msgid "Home"
+msgstr "首页"
+
+# /plugins/crazy-theme-core/core/post_types.php
+msgid "All portfolios"
+msgstr "所有行业案例"
+
+msgid "portfolio"
+msgstr "行业案例"
+
+msgid "Portfolios"
+msgstr "行业案例"
+
+msgid "Portfolio"
+msgstr "行业案例"
+
+msgid "Portfolio Categories"
+msgstr "所属行业"
+
+msgid "Portfolio Category"
+msgstr "所属行业"
+
+msgid "Add new portfolio"
+msgstr "添加行业案例"
+
+msgid "Edit portfolio"
+msgstr "编辑行业案例"
+
+msgid "New portfolio"
+msgstr "新增行业案例"
+
+msgid "All products"
+msgstr "所有产品"
+
+msgid "product"
+msgstr "产品"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Product"
+msgstr "公司产品"
+
+msgid "Product Categories"
+msgstr "产品分类"
+
+msgid "Product Category"
+msgstr "产品分类"
+
+msgid "Add new product"
+msgstr "添加产品"
+
+msgid "Edit product"
+msgstr "编辑产品"
+
+msgid "New product"
+msgstr "新增产品"
+
+msgid "All schemes"
+msgstr "所有方案"
+
+msgid "scheme"
+msgstr "解决方案"
+
+msgid "Schemes"
+msgstr "解决方案"
+
+msgid "Scheme"
+msgstr "解决方案"
+
+msgid "Scheme Categories"
+msgstr "方案分类"
+
+msgid "Scheme Category"
+msgstr "方案分类"
+
+msgid "Add new scheme"
+msgstr "添加解决方案"
+
+msgid "Edit scheme"
+msgstr "编辑解决方案"
+
+msgid "New scheme"
+msgstr "新建解决方案"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Image Preview"
+msgstr "图片预览"
+
+# /plugins/crazy-theme-core/core/shortcode.php
+msgid "Show All"
+msgstr "显示所有"
+
+msgid "Read more..."
+msgstr "阅读全文..."
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Search Results"
+msgstr "搜索结果"
+
+msgid "Search Results for: %s"
+msgstr "搜索结果：%s"
+
+msgid "Binary Go Web Plugin Product Settings"
+msgstr "产品页面头部Banner设置"
+
+msgid "Theme Slider"
+msgstr "轮播插件"
+
+msgid "Choose between existing Slider."
+msgstr "请先在上面选择Banner需要的轮播插件。"
+
+msgid "Select Slider"
+msgstr "请选择轮播插件"
+
+msgid ""
+"Select Revolution slider on theme Theme Slider and Choose between existing "
+"Revolution Slider."
+msgstr "请从Revolution slider中选择一个作为本页面的Banner。"
